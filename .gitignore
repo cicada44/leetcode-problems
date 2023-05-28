@@ -1,0 +1,7 @@
+# ELF
+*.o
+*.out
+*.a
+
+# vscode
+.vscode

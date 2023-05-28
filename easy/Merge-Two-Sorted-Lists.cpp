@@ -1,32 +1,22 @@
-#include <iostream>
-
 /* Definition for singly-linked list. */
 struct ListNode {
     int val;
-    ListNode* next;
-    ListNode() : val(0), next(nullptr)
-    {
-    }
-    ListNode(int x) : val(x), next(nullptr)
-    {
-    }
-    ListNode(int x, ListNode* next) : val(x), next(next)
-    {
-    }
+    ListNode *next;
+    ListNode() : val(0), next(nullptr) {}
+    ListNode(int x) : val(x), next(nullptr) {}
+    ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
 class Solution {
-public:
-    void insert_after(ListNode* list, int value)
-    {
-        ListNode* tmp = new ListNode(value, list->next);
+  public:
+    void insert_after(ListNode *list, int value) {
+        ListNode *tmp = new ListNode(value, list->next);
         list->next = tmp;
     }
 
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2)
-    {
-        ListNode* dummy = new ListNode();
-        ListNode* ret = dummy;
+    ListNode *mergeTwoLists(ListNode *list1, ListNode *list2) {
+        ListNode *dummy = new ListNode();
+        ListNode *ret = dummy;
 
         while (list1 != nullptr && list2 != nullptr) {
             if (list1->val == list2->val) {
@@ -62,6 +52,4 @@ public:
     }
 };
 
-int main()
-{
-}
+int main() {}
