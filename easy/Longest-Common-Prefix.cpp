@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Longest Common Prefix' task
+// URL: https://leetcode.com/problems/longest-common-prefix/
+//
+//-----------------------------------------------------------------------------
+
 #include <algorithm>
 #include <string>
 #include <vector>

@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Merge Two Sorted Lists' task
+// URL: https://leetcode.com/problems/merge-two-sorted-lists/
+//
+//-----------------------------------------------------------------------------
+
 /* Definition for singly-linked list. */
 struct ListNode {
     int val;

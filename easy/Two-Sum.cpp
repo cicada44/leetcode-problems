@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Two Sum' task
+// URL: https://leetcode.com/problems/two-sum/
+//
+//-----------------------------------------------------------------------------
+
 #include <vector>
 
 class Solution {
@@ -6,8 +13,7 @@ class Solution {
         std::vector<int> vec_ans;
         for (int x = 0; x != nums.size(); x++) {
             for (int i = 0; i != nums.size(); i++) {
-                if (x == i)
-                    continue;
+                if (x == i) continue;
                 if (nums[x] + nums[i] == target) {
                     vec_ans.push_back(x);
                     vec_ans.push_back(i);

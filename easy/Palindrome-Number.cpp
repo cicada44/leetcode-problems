@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Palindrome Number' task
+// URL: https://leetcode.com/problems/palindrome-number/
+//
+//-----------------------------------------------------------------------------
+
 #include <string>
 
 class Solution {

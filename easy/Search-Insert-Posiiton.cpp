@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Search Insert Position' task
+// URL: https://leetcode.com/problems/search-insert-position/
+//
+//-----------------------------------------------------------------------------
+
 #include <vector>
 
 class Solution {
