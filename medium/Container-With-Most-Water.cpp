@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Container With Most Water' task
+// URL: https://leetcode.com/problems/container-with-most-water/
+//
+//-----------------------------------------------------------------------------
+
 #include <vector>
 
 class Solution {

@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Longest Substring Without Repeating Characters' task
+// URL: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+//
+//-----------------------------------------------------------------------------
+
 #include <algorithm>
 #include <string>
 #include <vector>

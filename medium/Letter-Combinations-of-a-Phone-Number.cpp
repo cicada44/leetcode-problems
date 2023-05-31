@@ -1,3 +1,10 @@
+//-----------------------------------------------------------------------------
+//
+// Source code for 'Letter Combinations of a Phone Number' task
+// URL: https://leetcode.com/problems/container-with-most-water/
+//
+//-----------------------------------------------------------------------------
+
 #include <map>
 #include <string>
 #include <vector>
