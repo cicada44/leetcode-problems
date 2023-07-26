@@ -22,5 +22,6 @@
 - [Container With Most Water](./medium/Container-With-Most-Water.cpp)
 - [Letter Combinations of a Phone Number](./medium/Letter-Combinations-of-a-Phone-Number.cpp)
 - [Longest Substring Without Repeating Charachters](./medium/Longest-Substring-Without-Repeating-Charachters.cpp)
+- [Longest Palindromic Substring](./medium/Longest-Palindromic-Substring.cpp)
 
 </h3>
