@@ -1,8 +1,7 @@
 //-----------------------------------------------------------------------------
 //
 // Source code for 'Find the Index of the First Occurrece in a String' task
-// URL:
-// https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+// URL: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 //
 //-----------------------------------------------------------------------------
 

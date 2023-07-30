@@ -11,6 +11,9 @@
 - [Remove Element](./easy/Remove-Element.cpp)
 - [Search Insert Posiiton](./easy/Search-Insert-Posiiton.cpp)
 - [Two Sum](./easy/Two-Sum.cpp)
+- [Length of Last Word](./easy/Length-of-Last-Word.cpp)
+- [Plus One](./easy/Plus-One.cpp)
+- [Roman to Integer](./easy/Roman-to-Integer.cpp)
 
 </h3>
 
