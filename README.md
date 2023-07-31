@@ -14,6 +14,7 @@
 - [Length of Last Word](./easy/Length-of-Last-Word.cpp)
 - [Plus One](./easy/Plus-One.cpp)
 - [Roman to Integer](./easy/Roman-to-Integer.cpp)
+- [Add Binary](./easy/Add-Binary.cpp)
 
 </h3>
 
