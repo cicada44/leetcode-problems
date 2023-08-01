@@ -15,6 +15,7 @@
 - [Plus One](./easy/Plus-One.cpp)
 - [Roman to Integer](./easy/Roman-to-Integer.cpp)
 - [Add Binary](./easy/Add-Binary.cpp)
+- [Sqrt(x)](./easy/sqrtx.cpp)
 
 </h3>
 
