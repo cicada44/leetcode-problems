@@ -28,5 +28,6 @@
 - [Letter Combinations of a Phone Number](./medium/Letter-Combinations-of-a-Phone-Number.cpp)
 - [Longest Substring Without Repeating Charachters](./medium/Longest-Substring-Without-Repeating-Charachters.cpp)
 - [Longest Palindromic Substring](./medium/Longest-Palindromic-Substring.cpp)
+- [Remove Nth Node From End of List](./medium/Remove-Nth-Node-From-End-of-List.cpp)
 
 </h3>
