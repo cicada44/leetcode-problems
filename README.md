@@ -29,5 +29,6 @@
 - [Longest Substring Without Repeating Charachters](./medium/Longest-Substring-Without-Repeating-Charachters.cpp)
 - [Longest Palindromic Substring](./medium/Longest-Palindromic-Substring.cpp)
 - [Remove Nth Node From End of List](./medium/Remove-Nth-Node-From-End-of-List.cpp)
+- [Generate Parentheses](./medium/Generate-Parentheses.cpp)
 
 </h3>
