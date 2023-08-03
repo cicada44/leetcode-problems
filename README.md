@@ -16,6 +16,7 @@
 - [Roman to Integer](./easy/Roman-to-Integer.cpp)
 - [Add Binary](./easy/Add-Binary.cpp)
 - [Sqrt(x)](./easy/sqrtx.cpp)
+- [Climbing Stairs](./easy/Climbing-Stairs.cpp)
 
 </h3>
 
