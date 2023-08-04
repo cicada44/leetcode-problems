@@ -17,6 +17,7 @@
 - [Add Binary](./easy/Add-Binary.cpp)
 - [Sqrt(x)](./easy/sqrtx.cpp)
 - [Climbing Stairs](./easy/Climbing-Stairs.cpp)
+- [Remove Duplicates from Sorted List](./easy/Remove-Duplicates-from-Sorted-List.cpp)
 
 </h3>
 
