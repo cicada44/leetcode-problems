@@ -19,6 +19,7 @@
 - [Climbing Stairs](./easy/Climbing-Stairs.cpp)
 - [Remove Duplicates from Sorted List](./easy/Remove-Duplicates-from-Sorted-List.cpp)
 - [Merge Sorted Array](./easy/Merge-Sorted-Array.cpp)
+- [Binary Tree Inorder Traversal](./easy/Binary-Tree-Inorder-Traversal.cpp)
 
 </h3>
 
