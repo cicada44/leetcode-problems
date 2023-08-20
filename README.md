@@ -21,6 +21,7 @@
 - [Merge Sorted Array](./easy/Merge-Sorted-Array.cpp)
 - [Binary Tree Inorder Traversal](./easy/Binary-Tree-Inorder-Traversal.cpp)
 - [Symmetric Tree](./easy/Symmetric-Tree.cpp)
+- [Same Tree](./easy/Same-Tree.cpp)
 
 </h3>
 
