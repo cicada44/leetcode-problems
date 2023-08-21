@@ -22,6 +22,7 @@
 - [Binary Tree Inorder Traversal](./easy/Binary-Tree-Inorder-Traversal.cpp)
 - [Symmetric Tree](./easy/Symmetric-Tree.cpp)
 - [Same Tree](./easy/Same-Tree.cpp)
+- [Maximum Depth of Binary Tree](./easy/Maximum-Depth-of-Binary-Tree.cpp)
 
 </h3>
 
