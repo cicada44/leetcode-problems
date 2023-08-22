@@ -38,5 +38,6 @@
 - [Remove Nth Node From End of List](./medium/Remove-Nth-Node-From-End-of-List.cpp)
 - [Generate Parentheses](./medium/Generate-Parentheses.cpp)
 - [Swap Nodes in Pairs](./medium/Swap-Nodes-in-Pairs.cpp)
+- [Valid Sudoku](./medium/Valid-Sudoku.cpp)
 
 </h3>
